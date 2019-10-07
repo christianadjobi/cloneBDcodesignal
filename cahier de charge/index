@@ -56,3 +56,80 @@ le nombre d'exercice
 .reporter(attribut)
 
 7 readme
+
+-------------------------------------------------daily challenge-----------------------------------------
+
+-all statut (visible)
+-niveau de difficulter
+-categorie
+-nomvre de challenge
+-total challenge
+
+*challenge(
+
+-statut
+-titre
+-categorei 
+-date
+-user
+*nombre d instrucion
+nombre de cpmmzntaire
+)
+
+NB l interface du challenge est identique a l arcard quil y a le chronometre qui decompte 
+
+
+--------------------------------------------Compaginie challenge --------------------------------------------
+
+
+.nom
+.situation geographique
+.date creation entreprise
+.nombre demployer
+.media
+.domaine d intervenyion
+.description enteprise
+. code challenge entreprise(
+titre
+nombre aux inscription 
+recompense
+le chrono
+difficulter
+-------------------interview pactice---------------------------------------------------------------------------
+
+- affichage des categorie plan d etude
+-contenue de l exercice (titre
+nombre_challenge)
+-contenue du test(titre
+entreprose
+difficulter
+chrono
+nombre d inscrit 
+nombre de commentaire 
+recompense)
+
+--------------------------------------------tournoir----------------------------------------------------------
+
+On distingue 
+* trois onglets dont
+-regular
+-marathon
+-private
+* un bouton Create 
+*plusieurs epreuve dont 
+-nombre de participant
+-exactement 5 execrice
+-duree de l exercice(maximun 5min)
+-la recompense
+-commentaire
+
+% etat 
+-runinng
+-finish
+
+
+
+
+
+
+
