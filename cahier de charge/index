@@ -1,0 +1,58 @@
+1 inscription 
+-email
+-username
+-password
+
+2 login
+-email/username 
+-password
+
+3 apres la conexion :page d'affichage
+
+-arcarde
+-daily challenge
+-continue test talk
+-compagnie challenge
+-analyse
+
+* arcarde
+.liste des rubrque(nom de la rubrique
+information sur le contenue
+nombre d exercice resolu / nombre d'exercice a faire
+
+)
+
+* contenu rubrique
+.section d'exercice (titre
+le nombre d'exercice
+)
+
+*sectiion exercice 
+.titre de la serie 
+. nombre d'exercice
+
+* serie d'exercice
+.titre de l'exercice
+.description(enoncer de l'exo)
+.la diffciculter de l exercice
+.le nombre de point
+.etat de validite
+.temps
+
+4 le menu draft
+.affiche la liste des solution de l execrice en fonction du language
+(date,le language,la serie)
+.eneregistrement
+
+5 solution
+.le nombre de toutes les solutions 
+.les users
+.leslanguage
+.les votes
+
+6 commentaire
+
+.forum de discution les exercice en cours (users date message argument)
+.reporter(attribut)
+
+7 readme
