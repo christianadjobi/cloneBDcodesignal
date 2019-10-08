@@ -16,15 +16,18 @@
 -analyse
 
 --------------------------------arcarde--------------------------------------------
-.liste des rubrque(nom de la rubrique
-information sur le contenue
-nombre d exercice resolu / nombre d'exercice a faire
+*liste des rubrque
 
-)
+.nom de la rubrique
+.information sur le contenue
+.nombre d exercice resolu 
+.nombre d'exercice a faire
+
+
 
 * contenu rubrique
 .section d'exercice (titre
-le nombre d'exercice
+.le nombre d'exercice
 )
 
 *sectiion exercice 
@@ -115,15 +118,17 @@ On distingue
 -regular
 -marathon
 -private
+
 * un bouton Create 
-*plusieurs epreuve dont 
+
+* plusieurs epreuve dont 
 -nombre de participant
 -exactement 5 execrice
 -duree de l exercice(maximun 5min)
 -la recompense
 -commentaire
 
-% etat 
+* etat 
 -runinng
 -finish
 
